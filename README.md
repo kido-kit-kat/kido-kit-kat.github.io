@@ -1,6 +1,6 @@
-realslimshanky.github.io
+techonerd.github.io
 ===============
 
-This is a short profile page made using the Google Developers Group New Delhi's Github Repo : [gdgnewdelhi.github.io](https://www.github.com/gdgnewdelhi/gdgnewdelhi.github.io)
+//This is a short profile page made using the Google Developers Group New Delhi's Github Repo : [gdgnewdelhi.github.io](https://www.github.com/gdgnewdelhi/gdgnewdelhi.github.io)
 
-You can also make this your profile page by simply doing a "Fork" and some modifications.
+//You can also make this your profile page by simply doing a "Fork" and some modifications.
