@@ -3,7 +3,7 @@ html {
   height: 100%;
 }
 body {
-  background: #052A4E url("./assets/bg.png") no-repeat center center fixed;
+  background: #20294c url("./assets/bg.png") no-repeat center center fixed;
   background-size: 120% auto;
   position: fixed;
   padding: 0px;
@@ -17,7 +17,7 @@ body:before {
   content: "";
   height: 0px;
   padding: 0px;
-  border: 110em solid #0000a0;
+  border: 110em solid #313440;
   position: absolute;
   left: 50%;
   top: 100%;
